@@ -1,1 +1,5 @@
-Vip M
+===================Connecting to git=========================
+1. Create Ripo on github.com/vipmonty
+2. Create Token
+3. Make sure to allow needed purmissions before token generation
+4. clone Ripo with Token
